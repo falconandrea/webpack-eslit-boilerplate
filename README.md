@@ -2,10 +2,16 @@
 
 Simple boilerplate with webpack and eslint.
 
+## Install
+
+```
+npm install
+```
+
 ## Use in local
 
 ```
-npm start
+npm run start
 ```
 
 for local test on `localhost:8080`
@@ -13,8 +19,10 @@ for local test on `localhost:8080`
 ## Build for production
 
 ```
-npm build
+npm run build
 ```
+
+files are saved in dist folder.
 
 ## Components
 
